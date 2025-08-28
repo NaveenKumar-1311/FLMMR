@@ -9,7 +9,7 @@ methods in the literature. Nevertheless, most of them focus only on the attackâ€
 
 Citation  
 If you use this work, please cite:  
-
+```
 @ARTICLE{10802950,
   author={Naveen Kumar, K. and Krishna Mohan, C. and Reddy Cenkeramaddi, Linga},
   journal={IEEE Transactions on Information Forensics and Security}, 
@@ -20,3 +20,4 @@ If you use this work, please cite:
   pages={478-487},
   keywords={Adaptation models;Servers;Data models;Computational modeling;Federated learning;Training;Neurons;Costs;Accuracy;Toxicology;Federated learning;model replacement attack;attack impact;adaptive attack budget;attack visibility},
   doi={10.1109/TIFS.2024.3516555}}
+```
